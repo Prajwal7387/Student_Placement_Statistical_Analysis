@@ -23,7 +23,8 @@ This project analyzes factors affecting student placement using statistical meth
 
 ## 🤖 Machine Learning Model
 - Logistic Regression
-- Model Accuracy: XX%
+- Model Accuracy: 87%
+
 
 ## 🔍 Key Findings
 - Higher CGPA increases placement probability.
